@@ -1,1 +1,10 @@
-
+<bug>
+  <id>264606</id> 
+  <developer>Thomas ten Cate</developer><developer username>ttencate</developer username>
+  <creation time>2009-02-11 17:30:00 -0500</creation time> 
+  <product>JDT</product> 
+  <component>UI</component> 
+  <resolution>fixed</resolution> 
+  <bug_severity>normal</bug_severity> 
+  <summary>[extract method] extracting return value results in compile error</summary> 
+  <description>Build ID: 120080617-2000 Use Extract Method on 'foo' 1 class Bar</description>
